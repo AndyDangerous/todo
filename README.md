@@ -1,7 +1,5 @@
 # todo
 
-This app clearly lacks a front-end. I didn't think that I had time to build out a clojurescript/react front end in the 2-4 hours specified. Instead I built out an API.
-
 This project has been an interesting learning process. Check the git commit comments for more insight into my design decisions. I'm sure I would have made different decisions if I had a better understanding of the idioms of Clojure.
 
 ## Prerequisites
